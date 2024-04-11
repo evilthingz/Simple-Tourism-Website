@@ -14,7 +14,7 @@ ADVENTURE - "Where Every Journey Begins"
 
 
 ## 👓 Preview
-<img src= "https://github.com/evilthingz/ASSETS/blob/main/Screenshot%202024-04-11%20212634.png)" width = "75%">
+<img src= "https://github.com/evilthingz/ASSETS/blob/main/Screenshot%202024-04-11%20212634.png" width = "75%">
 <img src= "https://github.com/evilthingz/ASSETS/blob/main/Screenshot%202024-04-11%20212653.png" width="75%">
 <img src= "https://github.com/evilthingz/ASSETS/blob/main/Screenshot%202024-04-11%20212702.png" width = "75%">
 <img src= "https://github.com/evilthingz/ASSETS/blob/main/Screenshot%202024-04-11%20212715.png" width = "75%">
